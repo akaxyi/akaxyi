@@ -30,7 +30,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaberbeister&layout=compact)](https://github.com/jaberbeister/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jagerbeister&layout=compact)](https://github.com/jagerbeister/github-readme-stats)
 
 
 
