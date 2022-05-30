@@ -5,7 +5,7 @@
 
 - ⚡ Fun fact **I love to watch MoonKnight**
 
-- 👯 I’m learning **C# and Java**
+- 👯 I’m learning **C# and JavaScript**
 
 - 🥅 2022 Goals **Pass my GCSE's**
 
