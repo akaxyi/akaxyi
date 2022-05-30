@@ -7,7 +7,7 @@
 
 - 👯 I’m learning **C# and Java**
 
-- 🥅 2022 Goals **Pass my most important GCSE's**
+- 🥅 2022 Goals **Pass my GCSE's**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
