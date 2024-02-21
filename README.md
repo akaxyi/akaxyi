@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm JagerBeister - aka Woah 👋</h1>
 <h3 align="center">I am a starting developer.</h3>
 
-- 🌱 I’m currently learning **basic C# projects**
+- 🌱 I’m currently learning **Javascript**
 
-- ⚡ Fun fact **I love to watch MoonKnight**
+- ⚡ Fun fact **I love to watch The Legend of Korra**
 
-- 👯 I’m learning **C# and JavaScript**
+- 👯 I’m learning **Python and Javascipt, C# in the near future**
 
-- 🥅 2022 Goals **Pass my GCSE's**
+- 🥅 2024 Goals **Pass my ALEVELs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
