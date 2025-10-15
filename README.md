@@ -6,7 +6,7 @@
 ***
 <br><br>
 ### About me<br><br>
-I am a full stack developer. I have experience with HTML, CSS, Javascript, Typescript, Python, C#, MongoDB! I am 19 years old. I have been coding for 3 years now!
+I’m a Computer Science with AI student at Liverpool Hope University, driven by turning complex ideas into practical, efficient solutions. With a strong foundation in programming, machine learning, and system optimisation, I bring curiosity, clarity, and problem‑solving focus to every project I take on.
 
 <div align="center">
 
@@ -22,7 +22,7 @@ I am a full stack developer. I have experience with HTML, CSS, Javascript, Types
 
 ### Join the discord support for Kermeme!
 
-> https://discord.gg/ feel free to join!
+> https://discord.gg/6kyXr2QuYg feel free to join!
 
 ***
 <br><br>
