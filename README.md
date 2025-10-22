@@ -2,8 +2,6 @@
 
 ### A budding Java developer
 
-![](https://komarev.com/ghpvc/?akaxyi&style=flat-square)
-
 - 🔭 I'm currently working on **[Personal Finance app](https://github.com/akaxyi/Personal-Finance)**
 
 - 🌱 I'm currently learning **Machine learning, neural networks, and Java **
