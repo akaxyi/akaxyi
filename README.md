@@ -14,10 +14,10 @@
 ***
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/akaxyi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="akaxyi" height="30" width="40" /></a>
-<a href="https://instagram.com/carsongreer_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="carsongreer_" height="30" width="40" /></a>
-<a href="https://hackerrank.com/carsongreer1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="carsongreer1" height="30" width="40" /></a>
-<a href="https://discord.gg/6kyXr2QuYg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="6kyXr2QuYg" height="30" width="40" /></a>
+<a href="https://github.com/akaxyi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="akaxyi" height="30" width="40" /></a>
+<a href="https://instagram.com/carsongreer_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="carsongreer_" height="30" width="40" /></a>
+<a href="https://hackerrank.com/carsongreer1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="carsongreer1" height="30" width="40" /></a>
+<a href="https://discord.gg/6kyXr2QuYg" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="6kyXr2QuYg" height="30" width="40" /></a>
 </p>
 
 ***
