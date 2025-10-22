@@ -26,7 +26,7 @@ I’m a Computer Science with AI student at Liverpool Hope University, driven by
 
 ***
 <br><br>
-## Coding Material
+## Coding Material (NEEDS UPDATING BARE WITH ME)
 <br>
 
 <p align="center">
