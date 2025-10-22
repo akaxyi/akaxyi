@@ -2,12 +2,11 @@
 
 ### A budding Java developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akaxyi&label=Profile views&color=0e75b6&style=flat" alt="akaxyi" /> </p>
-<br><br>
+![](https://komarev.com/ghpvc/?akaxyi&style=flat-square)
 
 - 🔭 I'm currently working on **[Personal Finance app](https://github.com/akaxyi/Personal-Finance)**
 
-- 🌱 I'm currently learning **Machine learning, neural networks, and Java**
+- 🌱 I'm currently learning **Machine learning, neural networks, and Java **
 
 - ⚡ Fun fact **The first computer bug was a real bug.**
 
