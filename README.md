@@ -9,8 +9,6 @@
 - ⚡ Fun fact **The first computer bug was a real bug.**
 
 - 👨‍💻 My portfolio **[akaxyi-carson](https://akaxyi-carson.vercel.app/)**
-
-- 📄 Know about my experiences **[https://comingsoon.com](https://comingsoon.com)**
 ***
 <h3 align="left">Connect with me:</h3>
 <p align="left">
