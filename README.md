@@ -8,7 +8,7 @@
 
 - ⚡ Fun fact **The first computer bug was a real bug.**
 
-- 👨‍💻 All of my projects are available at **[https://comingsoon.com](https://comingsoon.com)**
+- 👨‍💻 My portfolio **[akaxyi-carson](https://akaxyi-carson.vercel.app/)**
 
 - 📄 Know about my experiences **[https://comingsoon.com](https://comingsoon.com)**
 ***
