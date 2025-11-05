@@ -1,6 +1,6 @@
 # Hi 👋, I'm Carson Greer
 
-### A budding University Student
+### A Student at Liverpool Hope University
 
 - 🔭 I'm currently working on **[Personal Finance app](https://github.com/akaxyi/Personal-Finance)**
 
