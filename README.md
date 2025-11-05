@@ -1,10 +1,10 @@
 # Hi 👋, I'm Carson Greer
 
-### A budding Java developer
+### A budding University Student
 
 - 🔭 I'm currently working on **[Personal Finance app](https://github.com/akaxyi/Personal-Finance)**
 
-- 🌱 I'm currently learning **Machine learning, neural networks, and Java**
+- 🌱 I'm currently learning **Machine learning, neural networks, and Advanced Python**
 
 - ⚡ Fun fact **The first computer bug was a real bug.**
 
